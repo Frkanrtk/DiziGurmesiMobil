@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677556783334",
+    "project_id": "dizigurmesi-56d09",
+    "storage_bucket": "dizigurmesi-56d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677556783334:android:90ff6cba72eda0d5f25327",
+        "android_client_info": {
+          "package_name": "com.example.dizigurmesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqUywYe4pvCmT8EvBJQmxnlzMa56sH50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
